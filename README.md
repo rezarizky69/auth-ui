@@ -1,4 +1,4 @@
-# flutter_authentication_ui
+# flutter authentication UI
 
 A beautiful responsive app UI about authentication. 
 
